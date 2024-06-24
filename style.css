@@ -1,0 +1,19 @@
+
+body {
+    background-color: #512d84; /* Light gray background */
+}
+.container {
+    background-color: #ffffff; /* White container background */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Subtle shadow */
+}
+.form-container {
+    max-width: 600px; /* Limit form width */
+    margin: auto; /* Center align */
+}
+.table-container {
+    max-width: 800px; /* Limit table width */
+    margin: auto; /* Center align */
+    margin-top: 20px; /* Spacing from form */
+}
